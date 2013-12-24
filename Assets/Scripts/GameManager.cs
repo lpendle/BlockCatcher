@@ -10,6 +10,8 @@ public class GameManager : MonoBehaviour {
 	private Transform TFM;
 
 	// added version control for commiting updates
+
+	// added a new comment to test commit
 		
 	// we need seperate input states for 4 directions
 	public enum GameState {
