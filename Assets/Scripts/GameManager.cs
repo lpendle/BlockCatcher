@@ -8,6 +8,8 @@ public class GameManager : MonoBehaviour {
 	public float fxDelay = 10.8f;
 	// private variables
 	private Transform TFM;
+
+	// added version control for commiting updates
 		
 	// we need seperate input states for 4 directions
 	public enum GameState {
